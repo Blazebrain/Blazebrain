@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Blazebrain01" target="blank"><img src="https://img.shields.io/twitter/follow/Blazebrain01?logo=twitter&style=for-the-badge" alt="Blazebrain01" /></a> </p>
 
-- 🔭 I’m currently working on ---------------------, it's a blank template for now
+- 🔭 I’m currently working on **ZuriChat**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **davidadegoke16@gmail@gmail.com**
+- 📫 How to reach me **davidadegoke16@gmail.com**
 
-- ⚡ Fun fact **I love silence, music and tech. Execptiona**
+- ⚡ Fun fact **I love silence, music and tech. Execptional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
