@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Adegoke</h1>
-<h3 align="center">A passionate cross platform mobile developer(flutter). My curiosity makes me take sneak-peaks at other tech stacks👀</h3>
+<h3 align="center">A passionate cross platform Mobile Engineer with Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blazebrain&label=Profile%20views&color=0e75b6&style=flat" alt="blazebrain" /> </p>
 
