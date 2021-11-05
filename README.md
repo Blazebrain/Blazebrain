@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazebrain](https://github.com/Blazebrain)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Blazebrain](https://hashnode.com/@Blazebrain)
+- 📝 I regularly write articles on [https://dev.to/blazebrain](https://dev.to/blazebrain) and [https://hashnode.com/@Blazebrain](https://hashnode.com/@Blazebrain)
 
 - 💬 Ask me about **flutter**
 
