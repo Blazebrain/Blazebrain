@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **davidadegoke16@gmail.com**
 
-- ⚡ Fun fact **I love silence, music and tech. Execptional**
+- ⚡ Fun fact **I love silence, music and tech. Execeptional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
