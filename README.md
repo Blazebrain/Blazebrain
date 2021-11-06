@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ZuriChat**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I do magic with **Flutter** and **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazebrain](https://github.com/Blazebrain)
 
