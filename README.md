@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazebrain](https://github.com/Blazebrain)
 
-- 📝 I regularly write articles on Dev.to(https://dev.to/blazebrain) and LogRocket(https://blog.logrocket.com/author/davidadegoke/)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/blazebrain) and [LogRocket](https://blog.logrocket.com/author/davidadegoke/)
 
 - 💬 Ask me about **flutter**
 
