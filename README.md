@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/Blazebrain01" target="blank"><img src="https://img.shields.io/twitter/follow/Blazebrain01?logo=twitter&style=for-the-badge" alt="Blazebrain01" /></a> </p>
 
-- 🔭 I’m currently working on **ZuriChat**
+- 🔭 I’m currently working on **Raptures Entertainment**
 
-- 🌱 I do magic with **Flutter** and **Go**
+- 🌱 I do magic with **Flutter**, **Kotlin** and **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazebrain](https://github.com/Blazebrain)
 
-- 📝 I regularly write articles on [https://dev.to/blazebrain](https://dev.to/blazebrain)
+- 📝 I regularly write articles on Dev.to(https://dev.to/blazebrain) and LogRocket(https://blog.logrocket.com/author/davidadegoke/)
 
 - 💬 Ask me about **flutter**
 
