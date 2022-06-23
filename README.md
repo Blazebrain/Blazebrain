@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Blazebrain01" target="blank"><img src="https://img.shields.io/twitter/follow/Blazebrain01?logo=twitter&style=for-the-badge" alt="Blazebrain01" /></a> </p>
 
-- 🔭 I’m currently working on **Gigmile Technologies**
+- 🔭 I’m currently working as a Senior Flutter Developer
 
 - 🌱 I do magic with **Flutter**, **Kotlin** and **Go**
 
