@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an Engineering Lead || Senior Flutter Engineer
 
-- 🌱 I do magic with **Flutter**, **Kotlin** and **Go**
+- 🌱 I do magic with **Flutter** and **Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazebrain](https://github.com/Blazebrain)
 
