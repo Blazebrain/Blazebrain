@@ -7,17 +7,11 @@
 
 - 🔭 I’m currently working as Flutter Engineer
 
-- 🌱 I do magic with **Flutter** and **Dart**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Blazebrain](https://github.com/Blazebrain)
-
 - 📝 I regularly write articles on [Dev.to](https://dev.to/blazebrain) and [LogRocket](https://blog.logrocket.com/author/davidadegoke/)
 
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **davidadegoke16@gmail.com**
-
-- ⚡ Fun fact **I love silence, music and tech. Execeptional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
