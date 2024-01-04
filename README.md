@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/Blazebrain01" target="blank"><img src="https://img.shields.io/twitter/follow/Blazebrain01?logo=twitter&style=for-the-badge" alt="Blazebrain01" /></a> </p> -->
 
-- 🔭 I’m currently working as Flutter Engineer
+- 🔭 I’m currently working as an Engineering Manager || Senior Flutter Engineer
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/blazebrain) and [LogRocket](https://blog.logrocket.com/author/davidadegoke/)
 
